@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
- <a href="eyahiaaiss1@etf.unsa.ba">
+ <a href="mailto:eyahiaaiss1@etf.unsa.ba">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
