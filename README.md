@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
   </div>
 <br>
-<h5>Languages:</h5>
+<h1 align="center">Languages</h1>
 <div>
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
