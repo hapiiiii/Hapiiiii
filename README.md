@@ -1,7 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+
+<div >
+<img src="https://media.giphy.com/media/9WC8WTZsFxkRi/giphy.gif" width="1000" height="100"/>
 </div>
-<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"/>
+</div>
 <div align="center">
  <a href="mailto:eyahiaaiss1@etf.unsa.ba">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="LinkedIn Badge"/>
@@ -58,6 +61,10 @@
   </div>
                                                                                                                                                 
                                                                                                                                          
+</div>
+<br>
+<div >
+<img src="https://media.giphy.com/media/9WC8WTZsFxkRi/giphy.gif" width="1000" height="100"/>
 </div>
 
 
