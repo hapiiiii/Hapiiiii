@@ -4,7 +4,7 @@
 <br>
 <div align="center">
  <a href="mailto:eyahiaaiss1@etf.unsa.ba">
-    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
