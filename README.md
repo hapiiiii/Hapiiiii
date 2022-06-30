@@ -2,17 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
- <a href="https://www.linkedin.com/in/elhattab-yahia-aissa-5b7b66239/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
-  </div>
 
 
-<p align="center">
+
 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="postman" height="40" style="vertical-align:top; margin:4px">
