@@ -1,6 +1,6 @@
-<iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/c8d97699db3542a59ec80ef7b4c6ecfe44885fd8fc19b04dbbccf098ca940fe1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f632e737667" alt="c" height="40" style="vertical-align:top; margin:4px">
