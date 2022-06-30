@@ -5,6 +5,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"/>
 </div>
+<div  align="center">
+<h4 dir="auto">Hello there, I'm Hatab <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h4>
+ I’m currently studying Computer Science at Faculty of Electrical Engineering, Sarajevo
+</ul>
+</div>
+
+<div align="center">
+<h3 dir="auto"> How to reach me</h3>
+  </div>
 <div align="center">
  <a href="mailto:eyahiaaiss1@etf.unsa.ba">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="LinkedIn Badge"/>
@@ -16,10 +25,11 @@
   </a>
 </div>
 <br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
-  </div>
+
 <br>
+<div align="center">
+<h3 dir="auto"> Here is a list of languages and tools I've used the most so far</h3>
+  </div>
 <h1 align="center">:computer: Languages</h1>
 <div>
   <div align="center">
@@ -63,6 +73,10 @@
                                                                                                                                          
 </div>
 <br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
+  </div>
+  <br>
 <div >
 <img src="https://media.giphy.com/media/9WC8WTZsFxkRi/giphy.gif" width="1000" height="100"/>
 </div>
