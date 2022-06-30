@@ -11,6 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
   </div>
 <br>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
