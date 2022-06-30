@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
+  </div>
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/c8d97699db3542a59ec80ef7b4c6ecfe44885fd8fc19b04dbbccf098ca940fe1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f632e737667" alt="c" height="40" style="vertical-align:top; margin:4px">
