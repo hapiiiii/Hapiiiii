@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=hapiiii&style=flat-square&color=blue" alt=""/>
   </div>
 <br>
-<h1 align="center">Languages</h1>
+<h1 align="center">:computer: Languages</h1>
 <div>
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
  </div>
-  <h1 align="center">Tools</h1>
+  <h1 align="center">:hammer_and_wrench: Tools</h1>
       <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
