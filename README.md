@@ -66,7 +66,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman-original-wordmark.svg" alt="postman" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="postman" height="40" style="vertical-align:top; margin:4px">
         
   </div>
                                                                                                                                                 
